@@ -27,6 +27,8 @@ incoming audio. This should be interesting to look at.
 
 ---
 
+## Copyright
+
 Libfreenect is Copyright (C) 2010  Hector Martin "marcan" <hector@marcansoft.com>
 
 This code is licensed to you under the terms of the GNU GPL, version 2 or
